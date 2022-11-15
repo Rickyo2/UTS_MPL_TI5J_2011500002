@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTS_MPL_TI5J_2011500002</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ricky Tjhin (2011500002)</string>
+    <string name="nav_header_subtitle">UTS MPL_TI5J</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">PERHITUNGAN</string>
+    <string name="menu_gallery">BIODATA</string>
+    <string name="menu_slideshow">KELUAR</string>
+</resources>
